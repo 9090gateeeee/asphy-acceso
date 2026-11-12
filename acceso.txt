@@ -1,0 +1,10 @@
+# ASPHY · lista de acceso
+# Una linea por equipo:   29CC-B882-24E2-63C2-BF85-67BE | Yo_Admin | caducidad
+# caducidad:  *  = sin vencimiento    o una fecha  AAAA-MM-DD
+# Las lineas que empiezan con # son comentarios (no cuentan).
+#
+# Ejemplos (borralos y pon los tuyos):
+7B3F-07CD-0275-C17B-D4B5-276C | yo (admin) | *
+AAAA-BBBB-CCCC-DDDD-EEEE-FFFF | jugador1 | 2026-12-31
+
+29CC-B882-24E2-63C2-BF85-67BE | yo | *
